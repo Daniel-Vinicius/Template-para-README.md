@@ -24,9 +24,11 @@ Tabela de conteúdos
  <!--te-->
  
   ### 🎨 Como usar<a id="template"></a>
- Para usar o template vá até <a href="https://github.com/Daniel-Vinicius/Template-para-README.md/blob/master/Template.md"> este arquivo </a>
- Clique em raw ou clique <a href="https://raw.githubusercontent.com/Daniel-Vinicius/Template-para-README.md/master/Template.md"> aqui </a>
- Selecione tudo (Ctrl + A) depois Copie (Ctrl + C) e agora cole no seu README.md (Ctrl + C)
+ Para usar o template vá até <a href="https://github.com/Daniel-Vinicius/Template-para-README.md/blob/master/Template.md"> este arquivo </a>.
+ 
+ Clique em raw ou clique <a href="https://raw.githubusercontent.com/Daniel-Vinicius/Template-para-README.md/master/Template.md"> aqui </a>.
+ 
+ Agora selecione tudo (Ctrl + A) depois Copie (Ctrl + C) e agora cole no seu README.md (Ctrl + C)
  
 
 ### 🛠 Tecnologias<a id="tecnologias"></a>
