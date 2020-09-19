@@ -82,9 +82,13 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 
 Para ter acesso a URL da sua foto o Github:
+
 1- Vá até seu perfil
+
 2- Em cima da sua foto clique com o botão direito e selecione a opção copiar endereço da imagem
+
 3- Cole o endereço em src no código abaixo
+
 
 ### 👨‍💻Autor <a id="autor"> </a>
 
