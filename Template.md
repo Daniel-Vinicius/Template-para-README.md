@@ -44,7 +44,7 @@ Tabela de conteúdos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
  [Git](https://git-scm.com/),
- [Node.js](https://nodejs.org/pt-br/)
+ [Node.js](https://nodejs.org/pt-br/) e
  [React](https://reactjs.org/)
  
  Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
