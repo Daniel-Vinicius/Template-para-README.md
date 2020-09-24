@@ -66,7 +66,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
  $ npm start 
  $ yarn start
  
- # O servidor inciará na porta:porta
+ # O servidor iniciará na porta:porta
  # Acesse http://localhost:porta
  ````
 <p> Quando você tiver realizado todos os passos do projeto verá a  <a href="#imagem" >imagem do projeto</a> </p>
