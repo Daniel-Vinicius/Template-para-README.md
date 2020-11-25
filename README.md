@@ -3,9 +3,7 @@
 🎢 Um Template para README.md completo, pra você fazer seus READMES muito mais rápido
 
 ![](https://img.shields.io/badge/license-MIT-green)
-
 ![](https://img.shields.io/badge/languege-Portuguese-yellow)
-
 [![GitHub Repo stars](https://img.shields.io/github/stars/Daniel-Vinicius/Template-para-README.md?style=social)](https://github.com/Daniel-Vinicius/Template-para-README.md/stargazers)
 
 ### Features 
